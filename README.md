@@ -1,4 +1,4 @@
-(Yet Another) X-Wing Miniatures Squad Builder
+Armada Fleet Builder
 =============================================
 
 [![Build Status](https://travis-ci.org/geordanr/xwing.png)](https://travis-ci.org/geordanr/xwing)
