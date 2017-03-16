@@ -1,7 +1,7 @@
 Armada Fleet Builder
 =============================================
 
-[![Build Status](https://travis-ci.org/geordanr/xwing.png)](https://travis-ci.org/geordanr/xwing)
+[![Build Status](https://travis-ci.org/wrtlbrmpft/armada-fleet-builder.png)](https://travis-ci.org/wrtlbrmpft/armada-fleet-builder)
 
 What?
 -----
